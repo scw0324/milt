@@ -1,7 +1,7 @@
 {
     "name": "산성비 피하기",
     "short_name": "산성비",
-    "start_url": "/pwatestv1.0/",
+    "start_url": "/milt/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
