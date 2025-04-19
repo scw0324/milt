@@ -1,0 +1,22 @@
+{
+    "name": "산성비 피하기",
+    "short_name": "산성비",
+    "start_url": "/pwatestv1.0/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "https://i.ibb.co/whwPqjHF/maskable-icon-x512.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://i.ibb.co/YFCGbNgv/maskable-icon-x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
